@@ -3,6 +3,9 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class test_TestCase extends TestCase  {
+
+    // A test case defines the fixture to run multiple tests.
+
     protected double fValue1;
     protected double fValue2;
 
